@@ -1,0 +1,14 @@
+pika
+pycryptodome
+pbkdf2
+bitstring
+netstruct
+ipaddress
+pefile
+pype32-py3
+yara
+javaobj-py3
+androguard
+requests
+pymongo
+validators
